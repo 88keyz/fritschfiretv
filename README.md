@@ -1,7 +1,7 @@
 # fritschfiretv
 Archive of Kodi Fire TV builds by fritsch (https://github.com/fritsch/xbmc/tree/fritschfiretv)
 
-![Kodi Logo](../docs/resources/banner_slim.png)
+![Kodi Logo](https://raw.githubusercontent.com/fritsch/xbmc/fritschfiretv/docs/resources/banner_slim.png)
 
 # Kodi's licensing rules
 Kodi is provided under the terms of the GNU General Public License v2.0 or later, as provided in **[LICENSES/GPL-2.0-or-later](GPL-2.0-or-later)**.
